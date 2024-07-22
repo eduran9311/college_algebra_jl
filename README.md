@@ -1,2 +1,2 @@
 # college_algebra_jl
-Interactive files for use by college algebra students
+Welcome College Algebra students! This repository contains a workbook of interactive material to use as supplement to your in-class instruction. 
